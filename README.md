@@ -13,10 +13,11 @@ the show.
 This repository also contains scripts to train models to generate scenes (such as the scene above) and to classify the speaker of a line. 
 
 ### Models
-The fine-tuned models are available to HuggingFace to make them easy accessible for everyone.
 ![delivery_status](https://img.shields.io/badge/DeliveryStatus-published-green)
 
-Scene Generation: https://huggingface.co/mo374z/theoffice_scene_generation
+The fine-tuned models are available to HuggingFace to make them easy accessible for everyone.
+
+Scene Generation: https://huggingface.co/mo374z/theoffice_scene_generation <br>
 Speaker Classification: https://huggingface.co/mo374z/theoffice_speaker_classification
 
 ![the-office-whoa](https://user-images.githubusercontent.com/87521684/226451449-217a1c25-535c-4b3a-9377-8305765eb320.gif)
